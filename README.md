@@ -1,0 +1,1 @@
+This program asks user for the number of letters, numbers, and characters they want in their password. The number of each are implemented and shuffled to create unique passwords to be used to secure personal accounts.
